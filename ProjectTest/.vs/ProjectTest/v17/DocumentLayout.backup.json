@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lunaunde\\Desktop\\cpp\\ProjectTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57F7D0DF-E3DA-4A0D-8A36-F3E3CC4575C1}|ProjectTest\\ProjectTest.vcxproj|C:\\Users\\Lunaunde\\Desktop\\cpp\\ProjectTest\\ProjectTest\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57F7D0DF-E3DA-4A0D-8A36-F3E3CC4575C1}|ProjectTest\\ProjectTest.vcxproj|solutionrelative:ProjectTest\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "C:\\Users\\Lunaunde\\Desktop\\cpp\\ProjectTest\\ProjectTest\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "ProjectTest\\\u6E90.cpp",
+              "ToolTip": "C:\\Users\\Lunaunde\\Desktop\\cpp\\ProjectTest\\ProjectTest\\\u6E90.cpp*",
+              "RelativeToolTip": "ProjectTest\\\u6E90.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-03T13:43:38.267Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
